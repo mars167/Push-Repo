@@ -6,7 +6,7 @@ GetYii
 [![Latest Unstable Version](https://poser.pugx.org/iiyii/getyii/v/unstable)](https://packagist.org/packages/iiyii/getyii) 
 [![License](https://poser.pugx.org/iiyii/getyii/license)](https://packagist.org/packages/iiyii/getyii)
 
-community for Yii2
+community for Yii21111
 
 ## 说明
 
